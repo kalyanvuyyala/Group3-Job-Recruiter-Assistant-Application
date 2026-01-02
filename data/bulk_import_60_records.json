@@ -1,0 +1,1024 @@
+{
+  "jobs": [
+    {
+      "job_id": "job001",
+      "title": "Software Engineer 1",
+      "location": "Leicester",
+      "job_type": "full_time",
+      "min_salary": 36799,
+      "max_salary": 62318,
+      "required_skills": [
+        "ml",
+        "kubernetes",
+        "aws"
+      ],
+      "min_experience_years": 4,
+      "visa_required": true
+    },
+    {
+      "job_id": "job002",
+      "title": "Software Engineer 2",
+      "location": "Leicester",
+      "job_type": "full_time",
+      "min_salary": 41223,
+      "max_salary": 58471,
+      "required_skills": [
+        "ml",
+        "aws",
+        "docker"
+      ],
+      "min_experience_years": 1,
+      "visa_required": false
+    },
+    {
+      "job_id": "job003",
+      "title": "Software Engineer 3",
+      "location": "London",
+      "job_type": "full_time",
+      "min_salary": 33516,
+      "max_salary": 56456,
+      "required_skills": [
+        "python",
+        "ml",
+        "docker"
+      ],
+      "min_experience_years": 4,
+      "visa_required": true
+    },
+    {
+      "job_id": "job004",
+      "title": "Software Engineer 4",
+      "location": "Birmingham",
+      "job_type": "full_time",
+      "min_salary": 39693,
+      "max_salary": 55366,
+      "required_skills": [
+        "aws",
+        "docker",
+        "java"
+      ],
+      "min_experience_years": 2,
+      "visa_required": false
+    },
+    {
+      "job_id": "job005",
+      "title": "Software Engineer 5",
+      "location": "Manchester",
+      "job_type": "full_time",
+      "min_salary": 37538,
+      "max_salary": 50714,
+      "required_skills": [
+        "spark",
+        "kubernetes",
+        "etl"
+      ],
+      "min_experience_years": 4,
+      "visa_required": false
+    },
+    {
+      "job_id": "job006",
+      "title": "Software Engineer 6",
+      "location": "Birmingham",
+      "job_type": "full_time",
+      "min_salary": 34948,
+      "max_salary": 56896,
+      "required_skills": [
+        "kubernetes",
+        "docker",
+        "sql"
+      ],
+      "min_experience_years": 2,
+      "visa_required": false
+    },
+    {
+      "job_id": "job007",
+      "title": "Software Engineer 7",
+      "location": "London",
+      "job_type": "full_time",
+      "min_salary": 38266,
+      "max_salary": 50648,
+      "required_skills": [
+        "spark",
+        "aws",
+        "kubernetes"
+      ],
+      "min_experience_years": 3,
+      "visa_required": true
+    },
+    {
+      "job_id": "job008",
+      "title": "Software Engineer 8",
+      "location": "Manchester",
+      "job_type": "full_time",
+      "min_salary": 43366,
+      "max_salary": 64255,
+      "required_skills": [
+        "spark",
+        "aws",
+        "sql"
+      ],
+      "min_experience_years": 1,
+      "visa_required": false
+    },
+    {
+      "job_id": "job009",
+      "title": "Software Engineer 9",
+      "location": "Leicester",
+      "job_type": "full_time",
+      "min_salary": 36145,
+      "max_salary": 51667,
+      "required_skills": [
+        "aws",
+        "kubernetes",
+        "python"
+      ],
+      "min_experience_years": 0,
+      "visa_required": true
+    },
+    {
+      "job_id": "job010",
+      "title": "Software Engineer 10",
+      "location": "Manchester",
+      "job_type": "full_time",
+      "min_salary": 35811,
+      "max_salary": 65223,
+      "required_skills": [
+        "ml",
+        "spark",
+        "python"
+      ],
+      "min_experience_years": 1,
+      "visa_required": true
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "cand001",
+      "name": "Candidate 1",
+      "email": "candidate1@example.com",
+      "phone": "+44770090001",
+      "location": "Birmingham",
+      "years_experience": 3,
+      "skills": [
+        "sql",
+        "etl",
+        "docker"
+      ],
+      "education_level": "phd",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand002",
+      "name": "Candidate 2",
+      "email": "candidate2@example.com",
+      "phone": "+44770090002",
+      "location": "London",
+      "years_experience": 0,
+      "skills": [
+        "docker",
+        "python",
+        "kubernetes",
+        "ml",
+        "aws",
+        "sql"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand003",
+      "name": "Candidate 3",
+      "email": "candidate3@example.com",
+      "phone": "+44770090003",
+      "location": "Nottingham",
+      "years_experience": 6,
+      "skills": [
+        "ml",
+        "java",
+        "etl"
+      ],
+      "education_level": "bachelors",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand004",
+      "name": "Candidate 4",
+      "email": "candidate4@example.com",
+      "phone": "+44770090004",
+      "location": "London",
+      "years_experience": 1,
+      "skills": [
+        "aws",
+        "java",
+        "spark",
+        "docker",
+        "ml"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand005",
+      "name": "Candidate 5",
+      "email": "candidate5@example.com",
+      "phone": "+44770090005",
+      "location": "London",
+      "years_experience": 2,
+      "skills": [
+        "ml",
+        "spark",
+        "python",
+        "java"
+      ],
+      "education_level": "masters",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand006",
+      "name": "Candidate 6",
+      "email": "candidate6@example.com",
+      "phone": "+44770090006",
+      "location": "Birmingham",
+      "years_experience": 7,
+      "skills": [
+        "sql",
+        "kubernetes",
+        "ml"
+      ],
+      "education_level": "diploma",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand007",
+      "name": "Candidate 7",
+      "email": "candidate7@example.com",
+      "phone": "+44770090007",
+      "location": "London",
+      "years_experience": 0,
+      "skills": [
+        "python",
+        "spark",
+        "java",
+        "etl"
+      ],
+      "education_level": "phd",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand008",
+      "name": "Candidate 8",
+      "email": "candidate8@example.com",
+      "phone": "+44770090008",
+      "location": "London",
+      "years_experience": 4,
+      "skills": [
+        "docker",
+        "python",
+        "ml",
+        "aws",
+        "etl"
+      ],
+      "education_level": "bachelors",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand009",
+      "name": "Candidate 9",
+      "email": "candidate9@example.com",
+      "phone": "+44770090009",
+      "location": "Leicester",
+      "years_experience": 6,
+      "skills": [
+        "spark",
+        "kubernetes",
+        "aws"
+      ],
+      "education_level": "phd",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand010",
+      "name": "Candidate 10",
+      "email": "candidate10@example.com",
+      "phone": "+44770090010",
+      "location": "Manchester",
+      "years_experience": 3,
+      "skills": [
+        "python",
+        "java",
+        "kubernetes"
+      ],
+      "education_level": "phd",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand011",
+      "name": "Candidate 11",
+      "email": "candidate11@example.com",
+      "phone": "+44770090011",
+      "location": "Nottingham",
+      "years_experience": 0,
+      "skills": [
+        "kubernetes",
+        "docker",
+        "java"
+      ],
+      "education_level": "masters",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand012",
+      "name": "Candidate 12",
+      "email": "candidate12@example.com",
+      "phone": "+44770090012",
+      "location": "Nottingham",
+      "years_experience": 7,
+      "skills": [
+        "java",
+        "ml",
+        "etl",
+        "kubernetes"
+      ],
+      "education_level": "diploma",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand013",
+      "name": "Candidate 13",
+      "email": "candidate13@example.com",
+      "phone": "+44770090013",
+      "location": "Nottingham",
+      "years_experience": 9,
+      "skills": [
+        "aws",
+        "java",
+        "python",
+        "sql",
+        "docker",
+        "etl"
+      ],
+      "education_level": "phd",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand014",
+      "name": "Candidate 14",
+      "email": "candidate14@example.com",
+      "phone": "+44770090014",
+      "location": "Birmingham",
+      "years_experience": 7,
+      "skills": [
+        "spark",
+        "aws",
+        "java",
+        "etl",
+        "ml"
+      ],
+      "education_level": "phd",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand015",
+      "name": "Candidate 15",
+      "email": "candidate15@example.com",
+      "phone": "+44770090015",
+      "location": "London",
+      "years_experience": 5,
+      "skills": [
+        "java",
+        "etl",
+        "ml"
+      ],
+      "education_level": "bachelors",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand016",
+      "name": "Candidate 16",
+      "email": "candidate16@example.com",
+      "phone": "+44770090016",
+      "location": "Nottingham",
+      "years_experience": 3,
+      "skills": [
+        "kubernetes",
+        "sql",
+        "etl",
+        "aws",
+        "ml",
+        "java"
+      ],
+      "education_level": "bachelors",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand017",
+      "name": "Candidate 17",
+      "email": "candidate17@example.com",
+      "phone": "+44770090017",
+      "location": "London",
+      "years_experience": 6,
+      "skills": [
+        "kubernetes",
+        "spark",
+        "sql",
+        "java"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand018",
+      "name": "Candidate 18",
+      "email": "candidate18@example.com",
+      "phone": "+44770090018",
+      "location": "Nottingham",
+      "years_experience": 1,
+      "skills": [
+        "java",
+        "spark",
+        "etl",
+        "ml",
+        "kubernetes"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand019",
+      "name": "Candidate 19",
+      "email": "candidate19@example.com",
+      "phone": "+44770090019",
+      "location": "Manchester",
+      "years_experience": 9,
+      "skills": [
+        "etl",
+        "sql",
+        "spark",
+        "aws"
+      ],
+      "education_level": "phd",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand020",
+      "name": "Candidate 20",
+      "email": "candidate20@example.com",
+      "phone": "+44770090020",
+      "location": "Leicester",
+      "years_experience": 2,
+      "skills": [
+        "sql",
+        "aws",
+        "kubernetes"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand021",
+      "name": "Candidate 21",
+      "email": "candidate21@example.com",
+      "phone": "+44770090021",
+      "location": "Nottingham",
+      "years_experience": 7,
+      "skills": [
+        "spark",
+        "etl",
+        "aws",
+        "java"
+      ],
+      "education_level": "phd",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand022",
+      "name": "Candidate 22",
+      "email": "candidate22@example.com",
+      "phone": "+44770090022",
+      "location": "Nottingham",
+      "years_experience": 3,
+      "skills": [
+        "aws",
+        "ml",
+        "docker"
+      ],
+      "education_level": "masters",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand023",
+      "name": "Candidate 23",
+      "email": "candidate23@example.com",
+      "phone": "+44770090023",
+      "location": "Leicester",
+      "years_experience": 8,
+      "skills": [
+        "java",
+        "docker",
+        "etl",
+        "kubernetes"
+      ],
+      "education_level": "masters",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand024",
+      "name": "Candidate 24",
+      "email": "candidate24@example.com",
+      "phone": "+44770090024",
+      "location": "Leicester",
+      "years_experience": 6,
+      "skills": [
+        "sql",
+        "docker",
+        "aws",
+        "spark"
+      ],
+      "education_level": "phd",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand025",
+      "name": "Candidate 25",
+      "email": "candidate25@example.com",
+      "phone": "+44770090025",
+      "location": "Nottingham",
+      "years_experience": 5,
+      "skills": [
+        "docker",
+        "java",
+        "etl",
+        "ml",
+        "aws"
+      ],
+      "education_level": "phd",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand026",
+      "name": "Candidate 26",
+      "email": "candidate26@example.com",
+      "phone": "+44770090026",
+      "location": "London",
+      "years_experience": 5,
+      "skills": [
+        "docker",
+        "aws",
+        "ml",
+        "etl",
+        "kubernetes"
+      ],
+      "education_level": "phd",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand027",
+      "name": "Candidate 27",
+      "email": "candidate27@example.com",
+      "phone": "+44770090027",
+      "location": "Birmingham",
+      "years_experience": 7,
+      "skills": [
+        "spark",
+        "aws",
+        "ml"
+      ],
+      "education_level": "masters",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand028",
+      "name": "Candidate 28",
+      "email": "candidate28@example.com",
+      "phone": "+44770090028",
+      "location": "London",
+      "years_experience": 1,
+      "skills": [
+        "kubernetes",
+        "etl",
+        "ml",
+        "spark"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand029",
+      "name": "Candidate 29",
+      "email": "candidate29@example.com",
+      "phone": "+44770090029",
+      "location": "Manchester",
+      "years_experience": 7,
+      "skills": [
+        "etl",
+        "python",
+        "ml",
+        "docker",
+        "spark"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand030",
+      "name": "Candidate 30",
+      "email": "candidate30@example.com",
+      "phone": "+44770090030",
+      "location": "Leicester",
+      "years_experience": 6,
+      "skills": [
+        "sql",
+        "spark",
+        "aws",
+        "python",
+        "java"
+      ],
+      "education_level": "masters",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand031",
+      "name": "Candidate 31",
+      "email": "candidate31@example.com",
+      "phone": "+44770090031",
+      "location": "Leicester",
+      "years_experience": 7,
+      "skills": [
+        "python",
+        "aws",
+        "java",
+        "docker",
+        "ml"
+      ],
+      "education_level": "masters",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand032",
+      "name": "Candidate 32",
+      "email": "candidate32@example.com",
+      "phone": "+44770090032",
+      "location": "Manchester",
+      "years_experience": 10,
+      "skills": [
+        "sql",
+        "etl",
+        "kubernetes",
+        "docker",
+        "java",
+        "spark"
+      ],
+      "education_level": "masters",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand033",
+      "name": "Candidate 33",
+      "email": "candidate33@example.com",
+      "phone": "+44770090033",
+      "location": "Birmingham",
+      "years_experience": 7,
+      "skills": [
+        "sql",
+        "kubernetes",
+        "java",
+        "docker",
+        "spark"
+      ],
+      "education_level": "phd",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand034",
+      "name": "Candidate 34",
+      "email": "candidate34@example.com",
+      "phone": "+44770090034",
+      "location": "London",
+      "years_experience": 10,
+      "skills": [
+        "docker",
+        "etl",
+        "python",
+        "aws"
+      ],
+      "education_level": "diploma",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand035",
+      "name": "Candidate 35",
+      "email": "candidate35@example.com",
+      "phone": "+44770090035",
+      "location": "Nottingham",
+      "years_experience": 10,
+      "skills": [
+        "python",
+        "java",
+        "kubernetes",
+        "etl",
+        "ml"
+      ],
+      "education_level": "masters",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand036",
+      "name": "Candidate 36",
+      "email": "candidate36@example.com",
+      "phone": "+44770090036",
+      "location": "Leicester",
+      "years_experience": 3,
+      "skills": [
+        "aws",
+        "ml",
+        "sql",
+        "spark"
+      ],
+      "education_level": "masters",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand037",
+      "name": "Candidate 37",
+      "email": "candidate37@example.com",
+      "phone": "+44770090037",
+      "location": "Leicester",
+      "years_experience": 1,
+      "skills": [
+        "docker",
+        "sql",
+        "kubernetes",
+        "aws",
+        "etl"
+      ],
+      "education_level": "bachelors",
+      "visa_status": "no_sponsorship"
+    },
+    {
+      "candidate_id": "cand038",
+      "name": "Candidate 38",
+      "email": "candidate38@example.com",
+      "phone": "+44770090038",
+      "location": "Birmingham",
+      "years_experience": 8,
+      "skills": [
+        "aws",
+        "spark",
+        "sql",
+        "etl",
+        "python",
+        "ml"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    },
+    {
+      "candidate_id": "cand039",
+      "name": "Candidate 39",
+      "email": "candidate39@example.com",
+      "phone": "+44770090039",
+      "location": "Birmingham",
+      "years_experience": 7,
+      "skills": [
+        "python",
+        "java",
+        "etl",
+        "ml",
+        "kubernetes",
+        "spark"
+      ],
+      "education_level": "phd",
+      "visa_status": "needs_sponsorship"
+    },
+    {
+      "candidate_id": "cand040",
+      "name": "Candidate 40",
+      "email": "candidate40@example.com",
+      "phone": "+44770090040",
+      "location": "Birmingham",
+      "years_experience": 10,
+      "skills": [
+        "python",
+        "kubernetes",
+        "aws",
+        "etl",
+        "java"
+      ],
+      "education_level": "diploma",
+      "visa_status": "citizen"
+    }
+  ],
+  "applications": [
+    {
+      "application_id": "app001",
+      "job_id": "job009",
+      "candidate_id": "cand001",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app002",
+      "job_id": "job010",
+      "candidate_id": "cand002",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app003",
+      "job_id": "job003",
+      "candidate_id": "cand003",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app004",
+      "job_id": "job010",
+      "candidate_id": "cand004",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app005",
+      "job_id": "job001",
+      "candidate_id": "cand005",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app006",
+      "job_id": "job005",
+      "candidate_id": "cand006",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app007",
+      "job_id": "job005",
+      "candidate_id": "cand007",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app008",
+      "job_id": "job009",
+      "candidate_id": "cand008",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app009",
+      "job_id": "job003",
+      "candidate_id": "cand009",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app010",
+      "job_id": "job007",
+      "candidate_id": "cand010",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app011",
+      "job_id": "job001",
+      "candidate_id": "cand011",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app012",
+      "job_id": "job006",
+      "candidate_id": "cand012",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app013",
+      "job_id": "job008",
+      "candidate_id": "cand013",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app014",
+      "job_id": "job007",
+      "candidate_id": "cand014",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app015",
+      "job_id": "job005",
+      "candidate_id": "cand015",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app016",
+      "job_id": "job002",
+      "candidate_id": "cand016",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app017",
+      "job_id": "job006",
+      "candidate_id": "cand017",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app018",
+      "job_id": "job008",
+      "candidate_id": "cand018",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app019",
+      "job_id": "job009",
+      "candidate_id": "cand019",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app020",
+      "job_id": "job010",
+      "candidate_id": "cand020",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app021",
+      "job_id": "job001",
+      "candidate_id": "cand021",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app022",
+      "job_id": "job008",
+      "candidate_id": "cand022",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app023",
+      "job_id": "job005",
+      "candidate_id": "cand023",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app024",
+      "job_id": "job008",
+      "candidate_id": "cand024",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app025",
+      "job_id": "job002",
+      "candidate_id": "cand025",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app026",
+      "job_id": "job010",
+      "candidate_id": "cand026",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app027",
+      "job_id": "job003",
+      "candidate_id": "cand027",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app028",
+      "job_id": "job008",
+      "candidate_id": "cand028",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app029",
+      "job_id": "job006",
+      "candidate_id": "cand029",
+      "status": "applied",
+      "audit_trail": []
+    },
+    {
+      "application_id": "app030",
+      "job_id": "job009",
+      "candidate_id": "cand030",
+      "status": "applied",
+      "audit_trail": []
+    }
+  ],
+  "interviews": []
+}
