@@ -6,7 +6,7 @@ How to run:
 3) Install requirements:
    pip install -r requirements.txt
 4) Run the app:
-   python -m src.app.main
+   python3 -m src.app.main
 
 How to run tests:
 - Run all tests:
