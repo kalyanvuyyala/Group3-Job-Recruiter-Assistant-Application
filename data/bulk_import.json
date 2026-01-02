@@ -1,0 +1,38 @@
+{
+  "jobs": [
+    {
+      "job_id": "job001",
+      "title": "Data Engineer",
+      "location": "Leicester",
+      "job_type": "full_time",
+      "min_salary": 35000,
+      "max_salary": 55000,
+      "required_skills": ["python", "sql", "spark"],
+      "min_experience_years": 1,
+      "visa_required": false
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "cand001",
+      "name": "Kalyan Kumar",
+      "email": "Kalyan@example.com",
+      "phone": "+447700900111",
+      "location": "Leicester",
+      "years_experience": 2,
+      "skills": ["python", "sql", "pyspark"],
+      "education_level": "masters",
+      "visa_status": "needs_sponsorship"
+    }
+  ],
+  "applications": [
+    {
+      "application_id": "app001",
+      "job_id": "job001",
+      "candidate_id": "cand001",
+      "status": "applied",
+      "audit_trail": []
+    }
+  ],
+  "interviews": []
+}
